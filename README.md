@@ -59,9 +59,9 @@
 
 * The Sample Database's data is available in this repo, converted in insert commands script files.
 
-* If you are connected in a PostgreSQL or MySQL database, you can simply run the scripts from this repo, and you'll have the Sample Database in PostgreSQL or MySQL format.
+* If you are connected in a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database, you can simply run the scripts from this repo, and you'll have the Sample Database in PostgreSQL or MySQL format.
 
-* I hope this repo helps you to have a simple dataset for your Metabase project or any other BI tool.
+* I hope this repo helps you to have a simple dataset for your <a href="https://www.metabase.com" target="_blank">Metabase</a> project or any other BI tool.
 
 <div id="how-it-works"></div>
 
