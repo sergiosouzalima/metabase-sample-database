@@ -55,11 +55,13 @@
 
 ## About the Project
 
-* The <a href="https://www.metabase.com/glossary/sample_database" target="_blank">Sample Database</a> is a small <a href="https://www.h2database.com/html/main.html" target="_blank">H2 database</a> that ships with <a href="https://www.metabase.com" target="_blank">Metabase</a>, a Business Inteligence and analytics tool.
+* The <a href="https://www.metabase.com/glossary/sample_database" target="_blank">Sample Database</a> is a small <a href="https://www.h2database.com/html/main.html" target="_blank">H2 database</a> that ships with <a href="https://www.metabase.com" target="_blank">Metabase</a>, a Business Inteligence (BI) and analytics tool.
 
 * The Sample Database's data is available in this repo, converted in insert commands script files.
 
 * If you are connected in a PostgreSQL or MySQL database, you can simply run the scripts from this repo, and you'll have the Sample Database in PostgreSQL or MySQL format.
+
+* I hope this repo helps you to have a simple dataset for your Metabase project or any other BI tool.
 
 <div id="how-it-works"></div>
 
