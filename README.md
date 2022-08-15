@@ -67,7 +67,7 @@
 
 ## How it Works
 
-* If you are connected in a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database, you can simply run the scripts from this repo, and you'll have a fully-populated database.
+* If you are connected to a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database, you can simply run the scripts from this repo, and you'll have a fully-populated database.
 
 - Basic steps:
   - Connect in a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database.
