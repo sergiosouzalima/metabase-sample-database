@@ -74,8 +74,8 @@
     - You'll need privileges to create a database, create tables & insert data into tables.
   - Create a database for this project if you want. This is not mandatory.
   - Run the scripts as follows:
-    1. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
-    2. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
+    1) <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
+    2) <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
 
 <div id="built-with"></div>
 
