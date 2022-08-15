@@ -73,7 +73,7 @@
   - Connect in a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database.
     - You'll need creation database, creation table & insert rows privileges.
   - Create a database for this project if you want. This is not mandatory.
-  - In your databse, run the scripts as follows. Execution order is important:
+  - In your database, run the scripts as follows. Execution order is important:
     1. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
     2. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/people_insert_script.sql">people_insert_script.sql</a>
     3. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/products_insert_script.sql">products_insert_script.sql</a>
