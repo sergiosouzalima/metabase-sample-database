@@ -67,21 +67,14 @@
 
 ## How it Works
 
-- Na área de stage:
-  - O projeto carrega arquivos <a href="https://pt.wikipedia.org/wiki/Comma-separated_values#:~:text=Os%20arquivos%20Comma-separated%20values,Excel%20e%20o%20LibreOffice%20Calc" target="_blank">CSV<a>, que contêm dados de funcionários, como nome, salário, departamento, divisão, etc. Para ver os arquivos CSV click <a href="https://github.com/sergiosouzalima/metabase-sample-database/tree/master/datasets" target="_blank">aqui</a>
-  - Depois, o projeto armazena os dados dos arquivos CSV, em tabelas da área de stage.(<a href="#stage-area">Stage Area</a>)
-- Da área de stage para a área de DW:
-  - Em seguida, o projeto move os dados da área de stage para dentro de tabelas de dimensão, que estão na área de DW.
-    - <a href="#divsion-dim">Dimensão Divisão</a>
-    - <a href="#role-dim">Dimensão Cargo</a>
-    - <a href="#depto-dim">Dimensão Departamento</a>
-    - <a href="#employee-dim">Dimensão Funcionário</a>
-  - A chamada "tabela fato", que está na área de DW, é alimentada com dados da folha de pagamento, como salário e data de pagamento.(<a href="#fact-table">Tabela Fato</a>)
-- Na área de DW:
-  - Na área do DW, o projeto cria a chamada "dimensão tempo". É uma tabela que armazena datas e serve para o DW fornecer dados com base em uma determinada data.(<a href="#calendar-dim">Dimensão Tempo</a>)
-- E finalmente:
-  - Depois de todos esses processos, o DW está pronto para ser consultado por outras ferramentas, gerando relatórios, gráficos, dashboards, etc.
-  - Para executar todos esses arquivos juntos, basta executar somente o arquivo de Workflow: <a href="#wrkf01">wrkf01_salary_payments.hwf</a>
+* If you are connected in a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database, you can simply run the scripts from this repo, and you'll have the Sample Database in PostgreSQL or MySQL format.
+
+- Steps:
+  - Connect in a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database.
+    - You'll need privileges to create a database, create tables & insert data into tables.
+  - Run the scripts as follows:
+    1. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
+    2. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
 
 <div id="built-with"></div>
 

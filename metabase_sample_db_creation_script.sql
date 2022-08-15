@@ -1,4 +1,4 @@
--- DATABASE NAME........: metabase_sample_db
+-- DATABASE NAME........: metabase_sample_db_creation_scripts.sql
 -- Compatible with RDBMS: PostgreSQL 11.7 / MySQL 8.0.20
 
 
