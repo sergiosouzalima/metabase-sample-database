@@ -88,20 +88,6 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<div id="stage-area"></div>
-
-### Stage Area (carga dos arquivos CSV)
-
-<br />
-<div align="center">
-  <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/images/wrkf01_pipe01.png">
-    <img src="images/wrkf01_pipe01.png" alt="Stage Area">
-  </a>
-</div>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
