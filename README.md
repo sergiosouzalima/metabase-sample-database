@@ -74,11 +74,11 @@
     - You'll need creation database, creation table & insert rows privileges.
   - Create a database for this project if you want. This is not mandatory.
   - In your database, run the scripts as follows. The order of execution is important:
-    1. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
-    2. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/people_insert_script.sql">people_insert_script.sql</a>
-    3. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/products_insert_script.sql">products_insert_script.sql</a>
-    4. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/reviews_insert_script.sql">reviews_insert_script.sql</a>
-    5. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/orders_insert_script.sql">orders_insert_script.sql</a>
+1. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
+2. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/people_insert_script.sql">people_insert_script.sql</a>
+3. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/products_insert_script.sql">products_insert_script.sql</a>
+4. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/reviews_insert_script.sql">reviews_insert_script.sql</a>
+5. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/orders_insert_script.sql">orders_insert_script.sql</a>
 
 
 <div id="built-with"></div>
@@ -156,24 +156,23 @@ Como este projeto pode ser usado.
 
 <div id="contributing"></div>
 
-## Contribuição
+## Contributing
 
-Contribuições fazem a comunidade open source um ótimo lugar para aprender e criar.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create.
 
-Qualquer contribuição será **muito bem-vinda**.
+Any contributions you make are **greatly appreciated**.
 
-Se você tem uma sugestão para melhorar este projeto, por favor, faça um fork do repositório e crie uma pull request.
+If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
-Você pode também abrir uma <a href="https://github.com/sergiosouzalima/metabase-sample-database/issues">issue</a> com a tag "enhancement" ou "melhoria".
+You can also simply open an <a href="https://github.com/sergiosouzalima/metabase-sample-database/issues">issue</a> with the tag "enhancement".
 
-Não se esqueça de marcar uma estrela neste projeto! Obrigado novamente!
+Don't forget to give the project a star! Thanks again!
 
-
-1. Faça um Fork do projeto.
-2. Crie sua Feature Branch (`git checkout -b feature/AmazingFeature`).
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`).
-4. Envie para uma Branch (`git push origin feature/AmazingFeature`).
-5. Abra uma Pull Request.
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -181,9 +180,9 @@ Não se esqueça de marcar uma estrela neste projeto! Obrigado novamente!
 
 <div id="license"></div>
 
-## Licença
+## Licensea
 
-Distribuido sob a Licença do <a href="https://www.google.com/search?q=MIT+license&sxsrf=ALiCzsau_v3Gey9rKHFZXjAtM7pfNTQgzg%3A1657904235316&ei=a5zRYvH-EtSf5OUPkv2byA0&ved=0ahUKEwix4JHIrvv4AhXUD7kGHZL-BtkQ4dUDCA0&uact=5&oq=MIT+license&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEEcQsAM6CggAEOQCELADGAE6DAguEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCOgQILhBDOgoILhDHARDRAxBDOgoILhDHARCvARBDOgsILhCABBDHARDRAzoLCC4QgAQQxwEQrwE6DQguEMcBENEDEAoQywFKBAhBGABKBAhGGAFQ2AZYrBZgsCZoAXABeACAAYYCiAGuCZIBBTAuNy4xmAEAoAEByAEPwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz">MIT</a>.
+Distributed under the MIT License <a href="https://www.google.com/search?q=MIT+license&sxsrf=ALiCzsau_v3Gey9rKHFZXjAtM7pfNTQgzg%3A1657904235316&ei=a5zRYvH-EtSf5OUPkv2byA0&ved=0ahUKEwix4JHIrvv4AhXUD7kGHZL-BtkQ4dUDCA0&uact=5&oq=MIT+license&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEEcQsAM6CggAEOQCELADGAE6DAguEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCOgQILhBDOgoILhDHARDRAxBDOgoILhDHARCvARBDOgsILhCABBDHARDRAzoLCC4QgAQQxwEQrwE6DQguEMcBENEDEAoQywFKBAhBGABKBAhGGAFQ2AZYrBZgsCZoAXABeACAAYYCiAGuCZIBBTAuNy4xmAEAoAEByAEPwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz">MIT</a>.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -191,11 +190,11 @@ Distribuido sob a Licença do <a href="https://www.google.com/search?q=MIT+licen
 
 <div id="contact"></div>
 
-## Contato
+## Contact
 
 Sergio Lima - [@sergiosouzalima](https://twitter.com/sergiosouzalima) - sergiosouzalima@gmail.com
 
-Este projeto no Github: [https://github.com/sergiosouzalima/metabase-sample-database](https://github.com/sergiosouzalima/metabase-sample-database)
+This project on Github: [https://github.com/sergiosouzalima/metabase-sample-database](https://github.com/sergiosouzalima/metabase-sample-database)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -203,7 +202,7 @@ Este projeto no Github: [https://github.com/sergiosouzalima/metabase-sample-data
 
 <div id="acknowledgments"></div>
 
-## Agradecimentos
+## Acknowledgments
 
 * [Apache Hop Brasil on Telegram](https://t.me/apachehop)
 * [This README template by Othneil Drew](https://github.com/othneildrew/Best-README-Template)
