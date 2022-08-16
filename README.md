@@ -10,7 +10,7 @@
 <div align="center">
 <h3 align="center">Metabase Sample Database</h3>
   <p align="center">
-    Metabase Sample Database data in PostgreSQL & MySQL format
+    H2 Sample Database's data ready to be imported to your PostgreSQL or MySQL database
     <br />
     <a href="https://github.com/sergiosouzalima/metabase-sample-database">
     <strong>Explore the docs »</strong></a>
