@@ -131,7 +131,7 @@
    ```
 3. You'll see the scripts that you need to create and load data to your Sample Database.
 
-4. In your database, run the scripts in directory `metabase-sample-database` as follows. The order of execution is important:
+4. In your database, run the scripts you just cloned as follows. The order of execution is important:
   - <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
   - <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/people_insert_script.sql">people_insert_script.sql</a>
   - <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/products_insert_script.sql">products_insert_script.sql</a>
