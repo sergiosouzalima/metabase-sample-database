@@ -91,7 +91,7 @@
 
 ### Built with
 
-* With <a href="https://hop.apache.org" target="_blank">Apache HOP version 1.2.0</a> I could export data from H2 database.
+* With <a href="https://hop.apache.org" target="_blank">Apache HOP version 1.2.0</a> I could export all the existent data from H2 database.
 * <a href="https://dbeaver.io" target="_blank">DBeaver</a> was useful to generate insert scripts files.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
