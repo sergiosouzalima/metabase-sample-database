@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-<h3 align="center">Metabase Sample Database in PostgreSQL/MySQL format.</h3>
+<h3 align="center">Metabase Sample Database.</h3>
   <p align="center">
     Metabase Sample Database in PostgreSQL/MySQL format.
     <br />
@@ -57,9 +57,7 @@
 
 * The <a href="https://www.metabase.com/glossary/sample_database" target="_blank">Sample Database</a> is a small <a href="https://www.h2database.com/html/main.html" target="_blank">H2 database</a> that ships with <a href="https://www.metabase.com" target="_blank">Metabase</a>, a Business Inteligence (BI) and analytics tool.
 
-* The Sample Database's data is available in this repo, converted in insert commands script files.
-
-* If you are connected in a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database, you can simply run the scripts from this repo, and you'll have the Sample Database in PostgreSQL or MySQL format.
+* The Sample Database's data available in this repo, is a H2 Sample Database converted in insert commands script files, compatible with <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> and <a href="https://www.mysql.com" target="_blank">MySQL</a>.
 
 * I hope this repo helps you to have a simple dataset for your <a href="https://www.metabase.com" target="_blank">Metabase</a> project or any other BI tool.
 
@@ -70,7 +68,7 @@
 * If you are connected to a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> instance, you can simply run the scripts from this repo, and you'll have a fully-populated database.
 
 - Basic steps:
-  - Connect in a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database.
+  - Connect to a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database.
     - You'll need creation database, creation table & insert rows privileges.
   - Create a database for this project if you want. This is not mandatory.
   - In your database, run the scripts as follows. The order of execution is important:
