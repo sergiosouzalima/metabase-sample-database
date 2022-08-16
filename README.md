@@ -82,6 +82,8 @@
 
 ![Metabase Sample Database ERD](metabase_sample_database_mer.png "Metabase Sample Database ERD")
 
+* Diagram made with <a href="https://sqldbm.com">SqlDBM</a> **awesome** data modeling tool.
+
 <div id="built-with"></div>
 
 ### Built with
