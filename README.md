@@ -78,6 +78,9 @@
 4. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/reviews_insert_script.sql">reviews_insert_script.sql</a>
 5. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/orders_insert_script.sql">orders_insert_script.sql</a>
 
+## Metabase Sample Database Entity-Relationship Diagram
+
+![Metabase Sample Database ERD](metabase_sample_database_mer.png "Metabase Sample Database ERD")
 
 <div id="built-with"></div>
 
