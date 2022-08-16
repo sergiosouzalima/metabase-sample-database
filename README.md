@@ -104,8 +104,7 @@ To get a local copy up and running follow these simple steps.<br />
 
 ### Installation
 
-1. <a href="https://hop.apache.org/manual/latest/getting-started/hop-download-install.html" target="_blank">Aqui</a>
- você encontra instruções para baixar e instalar o Apache HOP para Linux, MacOS ou Windows.
+1. See the <a href="#usage">Usage</a> section.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
