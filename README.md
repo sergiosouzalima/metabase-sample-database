@@ -119,7 +119,7 @@
 
 <div id="usage"></div>
 
-## Usage.
+## Usage
 
 1. Clone the repo
    ```sh
