@@ -31,6 +31,7 @@
       <ul>
         <li><a href="#how-it-works">How it works</a></li>
         <li><a href="#built-with">Built with</a></li>
+        <li><a href="#database-diagram">Database Entity-Relationship Diagram</a></li>
       </ul>
     </li>
     <li>
@@ -63,7 +64,7 @@
 
 <div id="how-it-works"></div>
 
-## How it Works
+### How it Works
 
 * If you are connected to a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> instance, you can simply run the scripts from this repo, and you'll have a fully-populated database.
 
@@ -78,7 +79,9 @@
 4. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/reviews_insert_script.sql">reviews_insert_script.sql</a>
 5. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/orders_insert_script.sql">orders_insert_script.sql</a>
 
-## Metabase Sample Database Entity-Relationship Diagram
+<div id="#database-diagram"></div>
+
+### Metabase Sample Database Entity-Relationship Diagram
 
 ![Metabase Sample Database ERD](metabase_sample_database_mer.png "Metabase Sample Database ERD")
 
