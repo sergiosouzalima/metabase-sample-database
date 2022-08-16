@@ -129,7 +129,7 @@
    ```sh
    cd metabase-sample-database
    ```
-3. In your database, run the scripts you have cloned in your `metabase-sample-database` directory. The order of execution is important:
+3. In your database, run the scripts you have cloned in your `metabase-sample-database` directory. The sequence of execution matters:
   - <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
   - <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/people_insert_script.sql">people_insert_script.sql</a>
   - <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/products_insert_script.sql">products_insert_script.sql</a>
