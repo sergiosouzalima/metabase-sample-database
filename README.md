@@ -30,8 +30,8 @@
       <a href="#about-the-project">About the Project</a>
       <ul>
         <li><a href="#how-it-works">How it works</a></li>
-        <li><a href="#built-with">Built with</a></li>
         <li><a href="#database-diagram">Database Entity-Relationship Diagram</a></li>
+        <li><a href="#built-with">Built with</a></li>
       </ul>
     </li>
     <li>
@@ -79,7 +79,7 @@
 4. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/reviews_insert_script.sql">reviews_insert_script.sql</a>
 5. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/orders_insert_script.sql">orders_insert_script.sql</a>
 
-<div id="#database-diagram"></div>
+<div id="database-diagram"></div>
 
 ### Metabase Sample Database Entity-Relationship Diagram
 
