@@ -119,27 +119,25 @@
 
 <div id="usage"></div>
 
-## Usage
+## Usage.
 
-Como este projeto pode ser usado.
-
-1. Tenha o Apache HOP instalado localmente em sua maquina [<a href="#installation">Veja a sessão de instalação</a>]
-
-2. Faça um clone deste repositorio
+1. Clone the repo
    ```sh
-   git clone https://github.com/sergiosouzalima/metabase-sample-database.git
+   git clone git@github.com:sergiosouzalima/metabase-sample-database.git
    ```
-3. Entre dentro da pasta criada no item anterior
+2. Change directory to `metabase-sample-database`
    ```sh
    cd metabase-sample-database
    ```
-4. Execute o Apache HOP.
-   ```sh
-   ./hop-gui.sh
-   ```
-5. Dentro do Apache HOP, carregue o arquivo metabase-sample-database/wrkf01_salary_payments.hwf
+3. You'll see the scripts that you need to create and load data to your Sample Database.
 
-6. Click no botão "play" para executar este projeto.
+4. In your database, run the scripts in directory to `metabase-sample-database` as follows. The order of execution is important:
+1. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/metabase_sample_db_creation_script.sql">metabase_sample_db_creation_script.sql</a>
+2. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/people_insert_script.sql">people_insert_script.sql</a>
+3. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/products_insert_script.sql">products_insert_script.sql</a>
+4. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/reviews_insert_script.sql">reviews_insert_script.sql</a>
+5. <a href="https://github.com/sergiosouzalima/metabase-sample-database/blob/master/orders_insert_script.sql">orders_insert_script.sql</a>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
