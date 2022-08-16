@@ -10,7 +10,7 @@
 <div align="center">
 <h3 align="center">Metabase Sample Database.</h3>
   <p align="center">
-    Metabase Sample Database transformed into PostgreSQL/MySQL format.
+    Metabase Sample Database data in PostgreSQL & MySQL format.
     <br />
     <a href="https://github.com/sergiosouzalima/metabase-sample-database">
     <strong>Explore the docs »</strong></a>
@@ -57,7 +57,7 @@
 
 * The <a href="https://www.metabase.com/glossary/sample_database" target="_blank">Sample Database</a> is a small <a href="https://www.h2database.com/html/main.html" target="_blank">H2 database</a> that ships with <a href="https://www.metabase.com" target="_blank">Metabase</a>, a Business Inteligence (BI) and analytics tool.
 
-* You can find in this repository, The Sample Database's data exported in script files. Theys are insert commands script files, compatible with <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> and <a href="https://www.mysql.com" target="_blank">MySQL</a>.
+* You can find in this repository, The Sample Database's data exported in script files. They are insert commands script files, compatible with <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> and <a href="https://www.mysql.com" target="_blank">MySQL</a>.
 
 * I hope this repository helps you to have a simple dataset for your <a href="https://www.metabase.com" target="_blank">Metabase</a> project or any other BI tool.
 
