@@ -8,9 +8,9 @@
 -->
 
 <div align="center">
-<h3 align="center">Metabase Sample Database.</h3>
+<h3 align="center">Metabase Sample Database</h3>
   <p align="center">
-    Metabase Sample Database data in PostgreSQL & MySQL format.
+    Metabase Sample Database data in PostgreSQL & MySQL format
     <br />
     <a href="https://github.com/sergiosouzalima/metabase-sample-database">
     <strong>Explore the docs »</strong></a>
