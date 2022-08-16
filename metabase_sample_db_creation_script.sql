@@ -1,5 +1,5 @@
 -- DATABASE NAME........: metabase_sample_db_creation_scripts.sql
--- Compatible with RDBMS: PostgreSQL 11.7 / MySQL 8.0.20
+-- Compatible with RDBMS: PostgreSQL & MySQL
 
 
 DROP TABLE IF EXISTS ORDERS, REVIEWS, PRODUCTS, PEOPLE;
