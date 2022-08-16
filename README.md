@@ -100,8 +100,6 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy follow these simple steps.<br />
-
 <div id="prerequisites"></div>
 
 ### Prerequisites
