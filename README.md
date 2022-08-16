@@ -59,7 +59,7 @@
 
 * The Sample Database's data available in this repo, is the H2 Sample Database converted in insert commands script files, compatible with <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> and <a href="https://www.mysql.com" target="_blank">MySQL</a>.
 
-* I hope this repo helps you to have a simple dataset for your <a href="https://www.metabase.com" target="_blank">Metabase</a> project or any other BI tool.
+* I hope this repository helps you to have a simple dataset for your <a href="https://www.metabase.com" target="_blank">Metabase</a> project or any other BI tool.
 
 <div id="how-it-works"></div>
 
