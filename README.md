@@ -98,7 +98,7 @@ To get a local copy up and running follow these simple steps.<br />
 ### Prerequisites
 
 1. <a href="https://git-scm.com" target="_blank">Git</a>, the distributed version control system.
-2. An instance of a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database.
+2. An up and running instance of a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database.
 
 <div id="installation"></div>
 
