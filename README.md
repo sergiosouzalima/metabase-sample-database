@@ -179,7 +179,7 @@ Don't forget to give the project a star! Thanks again!
 
 <div id="license"></div>
 
-## Licensea
+## License
 
 Distributed under the MIT License <a href="https://www.google.com/search?q=MIT+license&sxsrf=ALiCzsau_v3Gey9rKHFZXjAtM7pfNTQgzg%3A1657904235316&ei=a5zRYvH-EtSf5OUPkv2byA0&ved=0ahUKEwix4JHIrvv4AhXUD7kGHZL-BtkQ4dUDCA0&uact=5&oq=MIT+license&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEEcQsAM6CggAEOQCELADGAE6DAguEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCOgQILhBDOgoILhDHARDRAxBDOgoILhDHARCvARBDOgsILhCABBDHARDRAzoLCC4QgAQQxwEQrwE6DQguEMcBENEDEAoQywFKBAhBGABKBAhGGAFQ2AZYrBZgsCZoAXABeACAAYYCiAGuCZIBBTAuNy4xmAEAoAEByAEPwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz">MIT</a>.
 
@@ -203,6 +203,7 @@ This project on Github: [https://github.com/sergiosouzalima/metabase-sample-data
 
 ## Acknowledgments
 
+* [Metabase Brasil on Telegram](https://t.me/metabasebrasil)
 * [Apache Hop Brasil on Telegram](https://t.me/apachehop)
 * [This README template by Othneil Drew](https://github.com/othneildrew/Best-README-Template)
 
