@@ -83,7 +83,7 @@
 
 ### Metabase Sample Database Entity-Relationship Diagram
 
-![Metabase Sample Database ERD](metabase_sample_database_mer.png "Metabase Sample Database ERD")
+![Metabase Sample Database ERD](metabase_sample_database_erd.png "Metabase Sample Database ERD")
 
 * Diagram made with <a href="https://sqldbm.com">SqlDBM</a> **awesome** data modeling tool.
 
