@@ -60,13 +60,15 @@
 
 * You can find in this repository, The Sample Database's data exported in script files. They are insert commands script files, compatible with <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> and <a href="https://www.mysql.com" target="_blank">MySQL</a>.
 
+* Connect to your database, run the scripts available in this repository, and you'll have a fully-populated database.
+
 * I hope this repository helps you to have a simple dataset for your <a href="https://www.metabase.com" target="_blank">Metabase</a> project or any other BI tool.
 
 <div id="how-it-works"></div>
 
 ### How it Works
 
-* If you are connected to a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> instance, you can simply run the scripts from this repo, and you'll have a fully-populated database.
+* If you are connected to a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> instance, you can simply run the scripts available in this repository, and you'll have a fully-populated database.
 
 - Basic steps:
   - Connect to a <a href="https://www.postgresql.org" target="_blank">PostgreSQL</a> or <a href="https://www.mysql.com" target="_blank">MySQL</a> database.
