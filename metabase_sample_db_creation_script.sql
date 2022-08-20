@@ -1,5 +1,6 @@
--- DATABASE NAME........: metabase_sample_db_creation_scripts.sql
--- Compatible with RDBMS: PostgreSQL & MySQL
+-- Script name..........: metabase_sample_db_creation_script.sql
+-- Compatible with RDBMS: PostgreSQL, MySQL.
+-- Author...............: Sergio Lima
 
 
 DROP TABLE IF EXISTS ORDERS, REVIEWS, PRODUCTS, PEOPLE;
