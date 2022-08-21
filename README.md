@@ -85,7 +85,7 @@
 
 ### Entity-Relationship Diagram
 
-* Metabase’s Sample Database contains four tables: Products, Orders, People, and Reviews.
+* Metabase’s Sample Database contains four tables: Products, Orders, People (Customers), and Reviews.
 
 ![Metabase Sample Database ERD](metabase_sample_database_erd.png "Metabase Sample Database ERD")
 
