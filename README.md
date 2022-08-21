@@ -83,7 +83,7 @@
 
 <div id="database-diagram"></div>
 
-### Metabase Sample Database Entity-Relationship Diagram
+### Sample Database Entity-Relationship Diagram
 
 * Metabase’s Sample Database contains four tables: Products, Orders, People, and Reviews.
 
